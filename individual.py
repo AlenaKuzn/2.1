@@ -1,0 +1,8 @@
+print("Enter two numbers")
+n1 = int(input())
+n2 = int(input())
+print("Summa ", n1 + n2)
+print("Raznost ", n1 - n2)
+print("Proizved ", n1 * n2)
+print("Delen ", n1 / n2)
+print("Srednee arf ", (n1 + n2) / 2)
